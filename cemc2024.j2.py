@@ -10,7 +10,7 @@ for x in range(6):
     number.append(b)
 for y in number:
     if a>int(y):
-        a+=int(y)
+        a+=int(y)   
     else:
         break
 print(a)
